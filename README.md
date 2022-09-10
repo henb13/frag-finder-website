@@ -1,4 +1,4 @@
-Web GUI for [frag-finder](https://github.com/henb13/frag-finder) 
+Web GUI for [frag-finder](https://github.com/henb13/frag-finder).
 
 https://fragfinder.app
 
